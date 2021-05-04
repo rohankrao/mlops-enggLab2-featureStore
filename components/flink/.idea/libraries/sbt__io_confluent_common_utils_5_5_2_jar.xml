@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sbt: io.confluent:common-utils:5.5.2:jar">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/confluent/common-utils/5.5.2/common-utils-5.5.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

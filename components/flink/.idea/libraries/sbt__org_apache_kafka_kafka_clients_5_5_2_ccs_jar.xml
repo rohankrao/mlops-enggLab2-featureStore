@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sbt: org.apache.kafka:kafka-clients:5.5.2-ccs:jar">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/5.5.2-ccs/kafka-clients-5.5.2-ccs.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: org.apache.flink:flink-streaming-scala_2.12:1.14-SNAPSHOT:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.cache/coursier/v1/https/repository.apache.org/content/repositories/snapshots/org/apache/flink/flink-streaming-scala_2.12/1.14-SNAPSHOT/flink-streaming-scala_2.12-1.14-20210501.210018-12.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.cache/coursier/v1/https/repository.apache.org/content/repositories/snapshots/org/apache/flink/flink-streaming-scala_2.12/1.14-SNAPSHOT/flink-streaming-scala_2.12-1.14-20210501.210018-12-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

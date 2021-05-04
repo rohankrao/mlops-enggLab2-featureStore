@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="sbt: org.apache.flink:flink-optimizer_2.12:1.14-SNAPSHOT:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.cache/coursier/v1/https/repository.apache.org/content/repositories/snapshots/org/apache/flink/flink-optimizer_2.12/1.14-SNAPSHOT/flink-optimizer_2.12-1.14-20210501.205256-12.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.cache/coursier/v1/https/repository.apache.org/content/repositories/snapshots/org/apache/flink/flink-optimizer_2.12/1.14-SNAPSHOT/flink-optimizer_2.12-1.14-20210501.205256-12-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.cache/coursier/v1/https/repository.apache.org/content/repositories/snapshots/org/apache/flink/flink-optimizer_2.12/1.14-SNAPSHOT/flink-optimizer_2.12-1.14-20210501.205256-12-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
